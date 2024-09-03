@@ -12,7 +12,7 @@ En tant que Lead Développeur, ma mission pour ce projet inclut les tâches suiv
 
 - Définir les besoins client pour préparer la réunion de lancement
 - Documents : Use Cases, User Stories, Maquettes, Kanban
-- 
+
 ## Documents
 
 - [**Wireframe**](https://whimsical.com/p10-GfHKqXrMtd1dLKmV8JFGsJ)
