@@ -17,5 +17,5 @@ En tant que Lead Développeur, ma mission pour ce projet inclut les tâches suiv
 
 - [**Wireframe**](https://whimsical.com/p10-GfHKqXrMtd1dLKmV8JFGsJ)
 - [**Use Cases**](https://whimsical.com/usecase-DDF97rYvCJWxrAF59U5H3p)
-- [**Kanban**](https://trello.com/b/YlPCY7rn/p10)
+- [**Kanban**](https://trello.com/invite/b/64c79d6288fc48542c808ba1/ATTI6921ae27f090ae4a63d3035c7620b17d4BF3D186/p10)
 
